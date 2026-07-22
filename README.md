@@ -4,7 +4,6 @@ I began my journey in Software Development, but I soon realised that what excite
 
 ## 💼 Tools & Technologies
 
----
 
 ### 🐍 Programming Languages
 
